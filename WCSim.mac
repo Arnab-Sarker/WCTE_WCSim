@@ -4,7 +4,7 @@
 /tracking/verbose 0
 /hits/verbose 0
 #/control/execute vis.mac
-/vis/open OGLSQt
+#/vis/open OGLSQt
 
 ## select the geometry
 # Default config if you do nothing is currently SuperK
